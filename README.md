@@ -1,4 +1,4 @@
-# Dangerous Intersections
+# Oregon's Accidents
 
 ## Team Members & Roles
 - Ashley Morgan
@@ -8,8 +8,7 @@
 - Greg Kell
     - Documentation, presentation, QA
 - Molly Brown
-    - sdfsdf 
-
+    - Database, presentatin, QA
 
 
 
