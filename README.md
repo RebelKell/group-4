@@ -11,7 +11,6 @@
     - Database, presentation, QA
 
 
-
 ## Overview
 For this project our team is going to take a closer look at potential causality of fatale vehicle accidents in the state of Oregon. We will look at what factors are present in crash data from 2011 to 2015 including age, intoxication level, speed, etc. and try to determine what, if any, correlation exists between factors and the probability of a crash and where they happen.
 
@@ -21,4 +20,12 @@ We will use an unsupervised machine learning algorithm with the intent of examin
 
 To do this analysis we will use data from the National Highway Traffic Safety Administration’s (NHTSA) Fatality Analysis Reporting System (FARS) which has an excellent <a href="https://www.google.com/url?q=https://cdan.dot.gov/query&sa=D&source=docs&ust=1660099224827534&usg=AOvVaw20YALS4-fo7wnJHcGq-CRR">query tool</a> to pull data on this subject. 
 
+Depending on the results of our unsupervised machine learning algorithm we may take our analysis further by inputting the data into a supervised machine learning model to see if we can predict the number of accidents in a particular zip code.
+
+
+## Collaboration Tools
+To collaborate for this project we are using a Google Doc to collect our initial thoughts/brainstorming. We are using Slack to stay in touch asynchronously and using Zoom to host group meetings to talk through portions we are working on together.
+
+
+## Presentation Preperation
 Depending on the results of our unsupervised machine learning algorithm we may take our analysis further by inputting the data into a supervised machine learning model to compare the predicted number of fatal accidents and cluster proportions per county to the actuals. 
