@@ -20,7 +20,7 @@ We will use an unsupervised machine learning algorithm with the intent of examin
 
 To do this analysis we will use data from the National Highway Traffic Safety Administration’s (NHTSA) Fatality Analysis Reporting System (FARS) which has an excellent <a href="https://www.google.com/url?q=https://cdan.dot.gov/query&sa=D&source=docs&ust=1660099224827534&usg=AOvVaw20YALS4-fo7wnJHcGq-CRR">query tool</a> to pull data on this subject. 
 
-Depending on the results of our unsupervised machine learning algorithm we may take our analysis further by inputting the data into a supervised machine learning model to see if we can predict the number of accidents in a particular zip code.
+Depending on the results of our unsupervised machine learning algorithm we may take our analysis further by inputting the data into a supervised machine learning model to compare the predicted number of fatal accidents and cluster proportions per county to the actuals. 
 
 
 ## Collaboration Tools
@@ -28,4 +28,5 @@ To collaborate for this project we are using a Google Doc to collect our initial
 
 
 ## Presentation Preperation
-Depending on the results of our unsupervised machine learning algorithm we may take our analysis further by inputting the data into a supervised machine learning model to compare the predicted number of fatal accidents and cluster proportions per county to the actuals. 
+We have a very <a href="https://docs.google.com/presentation/d/1sumsFd5GnrvDwHLD4QbD8gdcZRA34VOBbRvQ7aJMU50/edit#slide=id.p1">rough draft of a deck in Google Slides</a> which will be ou main presentation and will link to our Tableau dashboard. 
+
