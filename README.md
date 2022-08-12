@@ -22,6 +22,11 @@ To do this analysis we will use data from the National Highway Traffic Safety Ad
 
 Depending on the results of our unsupervised machine learning algorithm we may take our analysis further by inputting the data into a supervised machine learning model to compare the predicted number of fatal accidents and cluster proportions per county to the actuals. 
 
+## Data
+We will be looking at fatal accidents in Oregon from 2011-2015. A detailed analysis of the processing and the data itself is in `data_README`
+
+## Machine Learning
+For the unsupervised ML portion of our project, we will be using Agglomerative Clustering and Dendrograms to visualize the groups. We will also explore a K-means algorithm for further analysis. For the supervised ML portion of our project, we will use linear regression to compare county results to the overall Oregon results.
 
 ## Collaboration Tools
 To collaborate for this project we are using a Google Doc to collect our initial thoughts/brainstorming. We are using Slack to stay in touch asynchronously and using Zoom to host group meetings to talk through portions we are working on together.
