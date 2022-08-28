@@ -33,5 +33,7 @@ To collaborate for this project we are using a Google Doc to collect our initial
 
 
 ## Presentation Preperation
-We have a very <a href="https://docs.google.com/presentation/d/1sumsFd5GnrvDwHLD4QbD8gdcZRA34VOBbRvQ7aJMU50/edit#slide=id.p1">rough draft of a deck in Google Slides</a> which will be ou main presentation and will link to our Tableau dashboard. 
+The presentation is coming along nicely and can be see <a href="https://docs.google.com/presentation/d/1sumsFd5GnrvDwHLD4QbD8gdcZRA34VOBbRvQ7aJMU50/edit#slide=id.p1">Google Slides</a>.
+
+Dashboard can be <a href="https://public.tableau.com/app/profile/greg.kell1682/viz/OregonAutoFatalaties/Dashboard1?publish=yes">seen here</a> and interactivity was added to incorporate filters of the data.
 
