@@ -32,8 +32,8 @@ For the unsupervised ML portion of our project, we will be using Agglomerative C
 To collaborate for this project we are using a Google Doc to collect our initial thoughts/brainstorming. We are using Slack to stay in touch asynchronously and using Zoom to host group meetings to talk through portions we are working on together.
 
 
-## Presentation Preparation
-We have a very <a href="https://docs.google.com/presentation/d/1sumsFd5GnrvDwHLD4QbD8gdcZRA34VOBbRvQ7aJMU50/edit#slide=id.p1">rough draft of a deck in Google Slides</a> which will be ou main presentation and will link to our Tableau dashboard.
+## Presentation Preperation
+The presentation is coming along nicely and can be see <a href="https://docs.google.com/presentation/d/1sumsFd5GnrvDwHLD4QbD8gdcZRA34VOBbRvQ7aJMU50/edit#slide=id.p1">Google Slides</a>.
 
-Dashboard draft can be <a href="https://public.tableau.com/app/profile/greg.kell1682/viz/OregonAutoFatalaties/Dashboard1?publish=yes">seen here</a>
+Dashboard can be <a href="https://public.tableau.com/app/profile/greg.kell1682/viz/OregonAutoFatalaties/Dashboard1?publish=yes">seen here</a> and interactivity was added to incorporate filters of the data.
 
