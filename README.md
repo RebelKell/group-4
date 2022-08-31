@@ -35,5 +35,5 @@ To collaborate for this project we are using a Google Doc to collect our initial
 ## Presentation Preperation
 The presentation is coming along nicely and can be see <a href="https://docs.google.com/presentation/d/1sumsFd5GnrvDwHLD4QbD8gdcZRA34VOBbRvQ7aJMU50/edit#slide=id.p1">Google Slides</a>.
 
-Dashboard can be <a href="https://public.tableau.com/app/profile/greg.kell1682/viz/OregonAutoFatalaties/Dashboard1?publish=yes">seen here</a> and interactivity was added to incorporate filters of the data.
+Dashboard can be <a href="https://public.tableau.com/app/profile/greg.kell1682/viz/OregonAutoFatalaties/Dashboard1?publish=yes">seen here</a> and interactivity was added to incorporate filters of the data. A separate Tableau file was created for a population related map here https://public.tableau.com/app/profile/molly.brown2878/viz/OR_HWY_Fatalities/FatalAccidentswCountyPop?publish=yes.
 
