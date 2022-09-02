@@ -20,10 +20,9 @@ We will use an unsupervised machine learning algorithm with the intent of examin
 
 To do this analysis we will use data from the National Highway Traffic Safety Administration’s (NHTSA) Fatality Analysis Reporting System (FARS) which we thought had an excellent <a href="https://www.google.com/url?q=https://cdan.dot.gov/query&sa=D&source=docs&ust=1660099224827534&usg=AOvVaw20YALS4-fo7wnJHcGq-CRR">query tool</a> to pull data, but we found that we were not able to get all the raw data we needed on this subject. Instead we ended up downloading 21 .csv files for each year of the study. Not all of these files were used, and 2015 had slightly different file setup from the other years.  
 
-Depending on the results of our unsupervised machine learning algorithm we may take our analysis further by inputting the data into a supervised machine learning model to compare the predicted number of fatal accidents and cluster proportions per county to the actuals.   *This needs updating based on Connor's info*
 
 ## Data
-We will be looking at fatal accidents in Oregon from 2011-2015. A detailed analysis of the processing and the data itself is in `data_README`
+We pulled data files from the National Highway Traffic Safety Administration's (NHTSA) Fatality Analysis Reporting System (FARS) for years 2011 through 2015. Each year had to be filtered for only Oregon data. A detailed analysis of the processing and the data itself is in `data_README`
 
 ## Machine Learning
 For the unsupervised ML portion of our project, we will be using Agglomerative Clustering and Dendrograms to visualize the groups. We will also explore a K-means algorithm for further analysis. For the supervised ML portion of our project, we will use linear regression to compare county results to the overall Oregon results.
