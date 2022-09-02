@@ -1,0 +1,10 @@
+# Oregon's Fatality Factors, Added Notes
+
+### Team Member, Molly Brown
+
+## Presentation Preparation
+Greg did a great job creating the slide show for our presentation. I appreciated how he kept words to a minimum, making the slides something for the speaker to talk about rather than read or have the audience read.  <a href="https://docs.google.com/presentation/d/1sumsFd5GnrvDwHLD4QbD8gdcZRA34VOBbRvQ7aJMU50/edit#slide=id.p1">Google Slides</a>.
+
+Greg also created a nice looking dashboard in Tableau. It can be <a href="https://public.tableau.com/app/profile/greg.kell1682/viz/OregonAutoFatalaties/Dashboard1?publish=yes">seen here</a>. I don't feel that I have been able to make my Tableau pages as visually appealing. I did contribute a Tableau page showing county populations, the number of fatal accidents per county and the number of fatalities. It is <a href="https://public.tableau.com/app/profile/molly.brown2878/viz/OR_HWY_Fatalities/FatalAccidentswCountyPop?publish=yes">right here</a>. It wasn't until making this display that I realized that Gilliam County had no fatalities in the five study years even though a portion of I-84 runs through it. I went back and checked the data we were using for the presentation to double check. 
+
+Other data features that were interesting included how Lane County (362,257) with less than half the population of Multnomah County (790,723) had only 20 fatal accidents less than Multnomah County. At first I thought that part of this disparity was because of college students in Lane County not counted as part of the population, however when I looked into it, college students are supposed to be counted in the place where they reside more often, which would be their college town. So that theory didn't work. What is more likely at play is that Lane County has three major highways, I-5, HWY-126 and HWY-58. In fact it looks like most oregon driving fatalities are associated with highways. The lack of highways could be why Washington County with a population of 572,955 only had 93 fatal accidents.  
